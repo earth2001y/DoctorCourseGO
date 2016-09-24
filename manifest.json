@@ -1,0 +1,13 @@
+{
+   "content_scripts": [ {
+      "js": [ "jquery-1.11.1.min.js", "background.js" ],
+      "matches": [ "https://twitter.com/*" ]
+   } ],
+   "description": "Twitterのフォローボタンを「博士課程に送る」に変更する。",
+   "manifest_version": 2,
+   "name": "博士課程に送る",
+   "permissions": [ "tabs", "https://twitter.com/*", "storage" ],
+   "version": "1.0",
+   "web_accessible_resources": [ "jquery.min.map" ]
+}
+
