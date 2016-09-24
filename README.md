@@ -1,1 +1,1 @@
-# DoctorCourseGO
+# DoctorCourseGOTwitterのフォローボタンを「博士課程に送る」に変更する。2016/9/24 のABProで飛び込みで発表したもの。
